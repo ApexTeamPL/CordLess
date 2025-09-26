@@ -13,4 +13,4 @@
 !!!READ THIS BEFORE CONTINUING!!!
 CordLess **is not related to Discord nor Vencore**. All files provided here belongs to both Discord, Vencord and Vencore.
 We do not store or share any data sent using this app. The data is sent only to Discord.com or client mods you use. Plus CordLess has additional layer of security - you are self hosting the app yourself meaning discord can't spy as much as it would on discord.com.
-This project requires MINIMUM of 2 GB RAM, 4 GB disk space free and Python installed on your machine (for Windows systems you DO NOT NEED Python but it is recommended).
+This project requires MINIMUM of 2 GB RAM, 4 GB disk space free and Python installed on your machine, the OS requirements are NOT set as we don't provide binaries for Linux, only for Android and Windows. (for Windows systems you DO NOT NEED Python but it is recommended).
